@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Aayush Verma</h1>
 <h3 align="center">A juvenile person who getting mature in the world of development by skills and knowledge.</h3>
 <img align="right" alt="gif" width="400" src="https://media.tenor.com/10Zdx_RXqgcAAAAC/programming-crazy.gif">
-- 🔭 I’m currently improving **my Coding Skills and learning Cloud Computing.**
+- 🔭 I’m currently improving **my Coding Skills and Machine Learning.**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for the guidance in **Cloud Computing**
+- 🤝 I’m looking for the guidance in **Machine Learning**
 
 - 📫 How to reach me **aayush.verma2021@vitstudent.ac.in**
 
