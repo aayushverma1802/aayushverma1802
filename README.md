@@ -35,6 +35,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
  <img src="https://media1.tenor.com/m/6m8yhSqzv78AAAAC/ab-mai-itna-bhi-khaas-nahi-hu-shin-chan.gif"   style="width: 60%; height: 60%; margin-left: 50%; float: right;"></img>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushverma1802&" 
          alt="aayushverma1802" 
-         style="width: 42%; height: auto;"/>
+         style="width: 32%; height: auto;"/>
 </div>
 
