@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for the guidance in **Machine Learning**
 
-- 📫 How to reach me **aayush.verma2021@vitstudent.ac.in**
+- 📫 How to reach me **verma.aayush1802@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
