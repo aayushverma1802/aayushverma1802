@@ -31,7 +31,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushverma1802&layout=compact&theme=gruvbox" 
          alt="Top Langs" 
-         style="padding-right: 200%; width: auto; height: auto;"/>
+         style="padding-right: 200%; width: 22%; height: auto;"/>
  <img src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif"   style="width: 60%; height: 60%; margin-left: 50%; float: right;"></img>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushverma1802&" 
          alt="aayushverma1802" 
