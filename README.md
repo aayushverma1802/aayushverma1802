@@ -32,7 +32,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushverma1802&layout=compact&theme=gruvbox" 
          alt="Top Langs" 
          style="padding-right: 200%; width: auto; height: auto;"/>
- <img src="https://media1.tenor.com/m/6m8yhSqzv78AAAAC/ab-mai-itna-bhi-khaas-nahi-hu-shin-chan.gif"></img>
+ <img src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif"></img>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushverma1802&" 
          alt="aayushverma1802" 
          style="width: 42%; padding-left: 27.9%; height: auto;"/>
