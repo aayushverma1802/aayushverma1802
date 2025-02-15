@@ -8,9 +8,9 @@
 <img align="right" alt="gif" width="38%" height="38%" src="https://media1.tenor.com/m/eNu5KK9s1RAAAAAC/cat-work.gif">
 - 🔭 I’m currently improving **my Coding Skills and Machine Learning.**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **NLP and GenAi**
 
-- 🤝 I’m looking for the guidance in **Machine Learning**
+- 🤝 I’m looking for the guidance in **Fine Tuning LLMs**
 
 - 📫 How to reach me **verma.aayush1802@gmail.com**
 
