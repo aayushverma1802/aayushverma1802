@@ -4,12 +4,13 @@
   <img src="https://count.getloli.com/get/@aayushverma1802?theme=rule34" alt="Visitors"/>
 </p>
 
+
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm Aayush Verma</h1>
 <h3 align="center">A juvenile person who getting mature in the world of development by skills and knowledge.</h3>
 <img align="right" alt="gif" width="38%" height="38%" src="https://media1.tenor.com/m/eNu5KK9s1RAAAAAC/cat-work.gif">
-- 🔭 I’m currently improving **my Coding Skills and Machine Learning.**
+- 🔭 I’m currently improving **my Coding Skills and AI **
 
 - 🌱 I’m currently learning **NLP and GenAi**
 
