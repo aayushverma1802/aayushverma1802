@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm Aayush Verma</h1>
 <h3 align="center">A juvenile person who getting mature in the world of development by skills and knowledge.</h3>
-<img align="right" alt="gif" width="50%" height="350%" src="https://media1.tenor.com/m/eNu5KK9s1RAAAAAC/cat-work.gif">
+<img align="right" alt="gif" width="40%" height="255%" src="https://media1.tenor.com/m/eNu5KK9s1RAAAAAC/cat-work.gif">
 - 🔭 I’m currently improving **my Coding Skills and AI **
 
 - 🌱 I’m currently learning **NLP and GenAi**
